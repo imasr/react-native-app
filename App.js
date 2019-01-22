@@ -11,6 +11,7 @@ import { Platform, StyleSheet, Text, View, StatusBar } from 'react-native';
 
 import LoggedOut from './src/screens/LoggedOut';
 import LogIn from './src/screens/Login';
+
 import colors from './src/styles/colors';
 
 export default class App extends Component {
